@@ -1,0 +1,849 @@
+/*Principal*/
+body {
+    background: rgba(0, 0, 0, .88);
+}
+
+header .container {
+    position: relative;
+}
+
+header {
+    background: rgba(0, 0, 0, 1);
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    left: 0px;
+    top: -1.26px;
+    z-index: 1;
+}
+
+header img {
+    position: relative;
+    width: 8%;
+    left: -59px;;
+    top: 7px;
+}
+
+header .nav-bar h1 {
+    position: relative;
+    color: #fff;
+    font-size: 20px;
+    top: -32px;
+    left: 50px;;
+}
+
+#menu {
+    margin: 34px 0;
+    position: relative;
+    top: -103px;
+    color: #fff;
+
+
+}
+
+#menu li.nav-item a {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+
+
+}
+
+#menu li.nav-item i {
+    font-size: 16px;
+    margin: 12px 12px;
+
+
+}
+
+section {
+    position: relative;
+
+}
+
+#Programa h1 {
+    text-align: center;
+    margin-top: 100px;
+    color: #fff;
+}
+
+#Caixa {
+    position: absolute;
+    width: 1233px;
+    height: 156px;
+    right: 414px;
+    top: 81.26px;
+    border-radius: 15px;
+    background: #273B4A;
+}
+
+#Caixa h5 {
+    color: #fff;
+    text-transform: uppercase;
+}
+
+hr.linha-1 {
+    position: absolute;
+    width: 156px;
+    height: 0px;
+    left: 87px;
+    top: 60px;
+
+    border: 2px solid #F78B31;
+    transform: rotate(90deg);
+}
+
+hr.linha-2 {
+    position: absolute;
+    width: 156px;
+    height: 0px;
+    left: 277px;
+    top: 60px;
+    color: #F78B31;
+    border: 2px solid;
+    transform: rotate(90deg);
+
+}
+
+hr.linha-3 {
+    position: absolute;
+    width: 156px;
+    height: 0px;
+    left: 444px;
+    top: 60px;
+
+    border: 2px solid #F78B31;
+    transform: rotate(90deg);
+
+}
+
+hr.linha-4 {
+    position: absolute;
+    width: 156px;
+    height: 0px;
+    left: 627px;
+    top: 60px;
+
+    border: 2px solid #F78B31;
+    transform: rotate(90deg);
+
+}
+
+hr.linha-5 {
+    position: absolute;
+    width: 156px;
+    height: 0px;
+    left: 804px;
+    top: 60px;
+
+    border: 2px solid #F78B31;
+    transform: rotate(90deg);
+
+}
+
+hr.linha-6 {
+    position: absolute;
+    width: 156px;
+    height: 0px;
+    left: 983px;
+    top: 60px;
+
+    border: 2px solid #F78B31;
+    transform: rotate(90deg);
+
+}
+
+hr.divisa {
+    position: relative;
+    border: 2px solid #F78B31;
+    left: -8px;
+    top: -12px;
+
+}
+
+#Caixa p {
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+    text-transform: uppercase;
+
+}
+
+#Caixa p small {
+    display: block;
+    color: rgba(192, 192, 192, 0.66);
+    font-size: 16px;
+
+}
+
+#Caixa p.info {
+    margin-top: -20px;
+}
+
+#Eventos {
+    position: relative;
+    width: 100%;
+    height: 466px;
+    left: 300px;
+    top: 307.74px;
+    background: url(../img/AdoracaoEvento.png);
+    background-repeat: no-repeat;
+    opacity: 0.85;
+}
+
+#Eventos .card {
+    display: inline-block;
+    position: relative;
+    top: 55px;
+    left: 111px;
+    margin: 36px 36px;
+    width: 451px;
+    padding-inline: 10px;
+}
+
+#Eventos .card-title {
+    margin-left: -21px;
+    text-transform: uppercase;
+}
+
+#Eventos .card-img-top {
+    width: 105%;
+    margin-top: -1px;
+    margin-left: -11px;
+
+}
+#Eventos  .img-size{
+    width: 451px;
+    height: 147px;
+
+}
+
+#Contribuicao {
+    position: relative;
+    width: 100%;
+    height: 466px;
+    left: 255px;
+    top: 307.74px;
+}
+
+#Contribuicao h1 {
+    color: #fff;
+    text-transform: uppercase;
+    margin-left: 241px;
+}
+
+#Contribuicao p {
+    color: #7898AF;
+    margin-left: 695px;
+}
+
+#Contribuicao .card {
+    position: relative;
+    top: 73px;
+    left: 111px;
+    margin: 36px 36px;
+    width: 451px;
+    padding-inline: 10px;
+    background: #273B4A;
+}
+
+#Contribuicao .card-text {
+    margin-left: 1px;
+
+}
+
+#Contribuicao .card-img-top {
+    width: 100%;
+    margin-top: 11px;
+    margin-left: 1px;
+    margin-right: 94px;
+}
+
+#Contribuicao .card-body {
+    background: #273B4A;
+}
+
+#Contribuicao .card-title {
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+#Contribuicao .card-text {
+    color: #fff;
+}
+
+#Contribuicao .c-alin {
+    position: relative;
+    top: -608px;
+    left: 660px;
+}
+
+
+
+
+/*Doaçoes*/
+section {
+    position: absolute;
+
+}
+
+#doacao .title {
+    margin-top: 92px;
+    margin-bottom: -118px;
+    color: #FFF;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+#doacao .card {
+    margin-top: 199px;
+    width: 100%;
+    background: #273B4A;
+
+}
+
+#doacao .card-title {
+    color: #FFF;
+    text-align: center;
+    font-size: 36px;
+    margin-left: -102px;
+
+}
+
+#doacao .card-body hr {
+    border: 5px rgba(247, 139, 49, 1) solid;
+    width: 138px;
+    margin-left: 496px;
+    margin-top: 2px;
+    text-align: center;
+
+}
+
+#doacao .card-text {
+    font-size: 24px;
+    align-items: center;
+    text-align: justify;
+    color: #FFF;
+}
+
+#doacao .card-text strong {
+    color: #F78B31;
+}
+
+#doacao .pagamento img {
+    width: 49px;
+}
+
+#doacao .pagamento {
+    color: #FFF;
+    font-size: 35px;
+    display: inline-block;
+    padding: 10px;
+    margin: 0 auto;
+    width: 352px; 
+}
+
+#doacao .local {
+    display: inline-block;
+
+
+}
+
+#doacao .local h6 {
+    font-size: 24px;
+    color: #FFF;
+}
+
+#doacao .local p {
+    color: #FFF;
+    font-size: 20px;
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+#doacao .local small {
+    color: #FFF;
+    font-size: 20px;
+    text-align: justify;
+    text-transform: uppercase;
+}
+
+#doacao .santa {
+    display: inline-block;
+    margin-left: 234px;
+    margin-top: -87px;
+}
+
+#doacao .roupa {
+    position: relative;
+    top: 83px;
+}
+
+/*Login*/
+section #areaDoLogin {
+    position: absolute;
+    width: 594px;
+    height: 661px;
+    left: 484px;
+    top: 165px;
+    border: #F78B31 1px solid;
+    border-radius: 11px;
+    filter: drop-shadow(0px 2px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+section #areaDoLogin .row img {
+    position: absolute;
+    left: 196px;
+    top: 32px;
+    width: 171px;
+    height: 146.97px;
+
+}
+
+section #areaDoLogin .logon {
+    position: absolute;
+    top: 193px;
+    left: 17px;
+
+}
+
+section #areaDoLogin .form-text {
+    color: #FFF;
+}
+
+section #areaDoLogin label {
+    color: #FFF;
+    font-size: 16px;
+    text-transform: uppercase;
+
+}
+
+section #areaDoLogin .senha {
+    margin-top: 8px;
+}
+
+section #areaDoLogin .entrar {
+    position: relative;
+    width: 168px;
+    bottom: -28px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+section #areaDoLogin input {
+    width: 98%;
+}
+
+section #areaDoLogin a {
+    position: absolute;
+    color: #FFF;
+    bottom: 294px;
+    left: 306px;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+section #areaDoLogin p {
+    position: absolute;
+    color: #FFF;
+    bottom: 108px;
+    left: -20px;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+section #areaDoLogin small {
+    position: relative;
+    bottom: -23px;
+    left: -241px;
+    text-align: center;
+}
+
+section #areaDoLogin .acesso {
+    position: absolute;
+    bottom: 21px;
+    width: 222px;
+    left: 44px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+section #areaDoLogin .cadastro {
+    position: absolute;
+    bottom: 21px;
+    width: 222px;
+    left: 335px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+section #areaDoLogin .text-cadastra {
+    position: absolute;
+    bottom: 108px;
+    left: 244px;
+    color: #FFF;
+    text-transform: uppercase;
+}
+
+section .img img {
+    position: absolute;
+    top: 164px;
+    width: 628px;
+    left: 1115px;
+}
+
+/*Cadastro*/
+section #CaixaDeCadastro {
+    position: absolute;
+    width: 1364px;
+    height: 662px;
+    left: 138px;
+    top: 92px;
+    background: #FFF;
+    border-radius: 15px;
+}
+
+section #dadosCadastro {
+    position: absolute;
+    width: 446px;
+    height: 463px;
+    left: 687px;
+    top: 88px;
+}
+
+section #dadosCadastro .nome {
+    box-sizing: border-box;
+    position: absolute;
+    width: 371px;
+    height: 42px;
+    left: 20px;
+    top: 6px;
+    background: #FFFFFF;
+    border: 1px solid #273B4A;
+    border-radius: 5px;
+}
+
+section #dadosCadastro .email {
+    box-sizing: border-box;
+    position: absolute;
+    width: 371px;
+    height: 42px;
+    left: 20px;
+    top: 74px;
+    background: #FFFFFF;
+    border: 1px solid #273B4A;
+    border-radius: 5px;
+}
+
+section #dadosCadastro .senha {
+    box-sizing: border-box;
+    position: absolute;
+    width: 371px;
+    height: 42px;
+    left: 20px;
+    top: 130px;
+    background: #FFFFFF;
+    border: 1px solid #273B4A;
+    border-radius: 5px;
+}
+
+section #dadosCadastro .senha1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 371px;
+    height: 42px;
+    left: 20px;
+    top: 201px;
+    background: #FFFFFF;
+    border: 1px solid #273B4A;
+    border-radius: 5px;
+}
+
+section #dadosCadastro .form-check {
+    margin-top: 317px;
+    margin-left: 52px;
+    color: #000;
+}
+
+section #dadosCadastro a {
+    color: #F78B31;
+}
+
+section #dadosCadastro .btn-cadastro {
+    position: absolute;
+    width: 350px;
+    height: 41px;
+    left: 34px;
+    top: 407px;
+    background: #F78B31;
+    border-radius: 50px;
+}
+
+section #retaculo {
+    position: absolute;
+    width: 460px;
+    height: 665px;
+    left: 0px;
+    top: 0px;
+    background: linear-gradient(180deg, #FF7400 45.76%, #273B4A 100%);
+    border-radius: 15px;;
+
+}
+
+section #retaculo .titulo-retaculo h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 1px;
+
+}
+
+section #retaculo .text-retaculo {
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 27px;
+    text-align: center;
+
+}
+
+section #retaculo .img-retaculo {
+    margin-top: -20px;
+}
+
+section #retaculo .img-retaculo h4 {
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-size: 18px;
+    margin-left: 37px;
+}
+
+section #retaculo .img-retaculo img {
+    width: 227px;
+    margin-left: 117px;
+    margin-top: 87px;
+}
+
+section #retaculo .text {
+    color: #FFF;
+    margin-top: 90px;
+    text-align: center;
+}
+
+/*Eventos*/
+section{
+    position: relative;
+    left: 117px;
+}
+section h1 {
+    color: #fff;
+    text-align: center;
+    margin-top: 73px;
+     margin-left: -208px;
+    font-size: 55px;
+}
+
+section #EventoAtual {
+    position: absolute;
+    width: 1039px;
+    height: 410px;
+    left: 277px;
+    top: 66px;
+
+}
+
+section #EventoAtual h3 {
+    color: #FFF;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+section #EventoAtual img {
+    width: 1030px;
+    height: 362px;
+    margin-left: -7px;
+}
+section #LinhaEventos h4{
+    color: #FFF;
+    margin-top: -48px;
+    margin-left: 18px;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+
+section #LinhaEventos {
+    position: relative;
+    width: 1285px;
+    height: 319px;
+    left: 127px;
+    top: 476px;
+
+} 
+section  .img-owl{
+    width: 297px;
+    height: 163.81px;
+}
+
+section  .item-inner{
+    padding: 10px;
+}
+section #LinhaEventos1 {
+    position: relative;
+    width: 1285px;
+    top: 185px;
+    left: 128px;
+}
+
+section #LinhaEventos2{
+ position: relative;
+    width: 1285px;
+    top: 623px;
+    left: 119px;
+
+}
+footer {
+    position: absolute;
+    height: 148px;
+    left: 9px;
+    top: 1961px;
+    width: 101%;
+}
+
+footer .row {
+    width: 100%;
+}
+
+footer .row p {
+    line-height: 0px;
+    margin-bottom: 22px;
+}
+
+footer .row-cinza-claro {
+    height: 200px;
+    background-color: #171F26;
+}
+
+footer .row-cinza-escuro {
+    height: 60px;
+    background-color: #11171D;
+    border-top: #242D37 1px solid;
+}
+
+footer .text-roxo {
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+footer .col-get-in-touch {
+    margin-top: 68px;
+}
+
+footer .row-cols h4 {
+    font-size: 16px;
+    color: #FFF;
+    padding-bottom: 17px;
+    border-bottom: #242D37 1px solid;
+}
+
+footer .row-cols h5 {
+    color: #666;
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+footer .row-cols time {
+    color: #FDE092;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+footer .col-links a {
+    color: #FFF;
+    font-family: Arial;
+    font-size: 14px;
+}
+
+footer .col-links .fa {
+    margin: 0 6px;
+}
+
+footer .col-get-in-touch address {
+    color: #fff;
+    font-family: Arial;
+    font-size: 14px;
+    margin-bottom: 6px;
+    text-transform: uppercase;
+}
+
+footer .col-get-in-touch h5 {
+    color: #FFF;
+    margin-top: -41px;
+
+}
+
+footer .col-get-in-touch address span {
+    display: inline-block;
+}
+
+footer .col-get-in-touch address i {
+    position: relative;
+    top: -14px;
+}
+
+footer .col-get-in-touch i {
+    color: #9B9B9B;
+    font-size: 20px;
+    margin: 0 6px;
+
+}
+
+footer .col-get-in-touch a {
+    color: #666;
+}
+
+footer .col-get-in-touch p {
+    line-height: 20px;
+}
+
+footer .list-socials {
+    margin-top: -3px;
+}
+
+footer .list-socials li {
+    text-align: center;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+footer .list-socials a {
+    display: block;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 14px;
+    text-align: center;
+}
+
+footer .list-socials i {
+    font-size: 16px;
+    margin: 7px auto;
+    color: #FFF;
+}
+
+footer .col-contato {
+    color: #FFF;
+    margin-left: 1258px;
+    margin-top: -106px;
+}
+
+.float-md-start {
+    color: #FFF;
+}
